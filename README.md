@@ -7,8 +7,11 @@ The goal of this project is to create a binary classifier using deep learning to
 
 ### Files:
 Starter Files: Module 21 Challenge files
+
 Results File: AlphabetSoupCharity.h5
+
 Optimized Model File: AlphabetSoupCharity_Optimization.h5
+
 Report File: Report.md
 
 ## Step 1: Preprocess the Data
